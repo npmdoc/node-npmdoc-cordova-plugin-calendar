@@ -1,9 +1,13 @@
-# api documentation for  [cordova-plugin-calendar (v4.5.5)](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-calendar.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-calendar) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-calendar.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-calendar)
+# npmdoc-cordova-plugin-calendar
+
+api documentation for  [cordova-plugin-calendar (v4.5.5)](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-calendar.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-calendar) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-calendar.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-calendar)
 #### This plugin allows you to manipulate the native calendar.
 
-[![NPM](https://nodei.co/npm/cordova-plugin-calendar.png?downloads=true)](https://www.npmjs.com/package/cordova-plugin-calendar)
+[![NPM](https://nodei.co/npm/cordova-plugin-calendar.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-calendar)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-cordova-plugin-calendar/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-cordova-plugin-calendar_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cordova-plugin-calendar/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-cordova-plugin-calendar/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-cordova-plugin-calendar/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-cordova-plugin-calendar/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cordova-plugin-calendar/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-cordova-plugin-calendar/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +22,6 @@
 {
     "author": {
         "name": "Eddy Verbruggen",
-        "email": "eddyverbruggen@gmail.com",
         "url": "https://github.com/EddyVerbruggen"
     },
     "bugs": {
@@ -58,13 +61,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "eddyverbruggen",
-            "email": "eddyverbruggen@gmail.com"
+            "name": "eddyverbruggen"
         }
     ],
     "name": "cordova-plugin-calendar",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin.git"
@@ -73,16 +74,6 @@
     "version": "4.5.5"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module cordova-plugin-calendar](#apidoc.module.cordova-plugin-calendar)
-
-
-
-# <a name="apidoc.module.cordova-plugin-calendar"></a>[module cordova-plugin-calendar](#apidoc.module.cordova-plugin-calendar)
 
 
 
